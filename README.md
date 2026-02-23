@@ -2,7 +2,7 @@
 
 Genpilot is a fast, opensource, secure, and user-friendly SSH/SFTP client that combines the power of Go with modern web technologies (Wails + Svelte).
 
-Mobaxterm, Putty, Bitvise, Winscp, Termius, mRemoteNG Alternatives
+Mobaxterm, Putty, Bitvise, Winscp, Termius, mRemoteNG Alternative
 
 <img src="./icon/main-gp.PNG" alt="Genpilot Preview" width="90%">
 ## 🚀 Features
