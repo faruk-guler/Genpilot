@@ -1,0 +1,13 @@
+{
+    "pkg": {
+        "scripts": [
+            "dist/**/*.js"
+        ],
+        "assets": [
+            "node_modules/sql.js/dist/sql-wasm.wasm"
+        ],
+        "targets": [
+            "node18"
+        ]
+    }
+}
