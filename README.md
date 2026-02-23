@@ -54,4 +54,3 @@ wails build
 This project is proprietary software. All rights reserved.
 
 ---
-*Genpilot - Where Speed Meets Security.*
