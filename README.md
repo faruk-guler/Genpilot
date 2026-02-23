@@ -2,7 +2,7 @@
 
 Genpilot is a fast, secure, and user-friendly SSH/SFTP client that combines the power of Go with modern web technologies (Wails + Svelte).
 
-<img src="./icon/main-gp.PNG" alt="Genpilot Preview" width="50%">
+<img src="./icon/main-gp.PNG" alt="Genpilot Preview" width="90%">
 
 ## 🚀 Features
 
