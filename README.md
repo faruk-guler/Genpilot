@@ -51,7 +51,5 @@ wails build
 - **Website:** [www.farukguler.com](https://www.farukguler.com)
 
 ## 📄 License
-
-GPL
-
+Apache 2.0
 ---
