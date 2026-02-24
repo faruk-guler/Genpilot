@@ -52,4 +52,5 @@ wails build
 
 ## 📄 License
 Apache 2.0
+
 ---
